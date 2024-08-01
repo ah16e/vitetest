@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.active{
+  @apply bg-teal-800 border-solid border-0 p-2 rounded-md
+}
+
+
+
